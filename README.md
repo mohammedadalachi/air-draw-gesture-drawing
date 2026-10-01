@@ -81,7 +81,7 @@ requirements.txt
 
 Dalachi Mohammed Abderrahmane ([@mohammedadalachi](https://github.com/mohammedadalachi))
 
-Developed as a university project.
+Developed as a university project for AIT102 Python and Tensorflow Programming.
 
 ## License
 
