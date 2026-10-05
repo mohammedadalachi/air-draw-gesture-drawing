@@ -1,5 +1,9 @@
 # Air Draw
 
+![Python](https://img.shields.io/badge/python-3.10-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-university%20project-lightgrey)
+
+![stack](https://icon-marquee.giann.dev/v1/icons?i=py,opencv,numpy)
+
 Draw on your screen with your hand, no mouse or touchscreen needed. Air Draw tracks your hand through a webcam, so you can draw, erase, change colours and save a screenshot using finger gestures alone. Strokes that look like a circle or a straight line are cleaned up automatically.
 
 The idea came from teaching: writing straight onto the screen instead of standing at a board.
